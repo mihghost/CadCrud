@@ -54,6 +54,6 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o 
 
 # Autor
 
-Hellen Michele Paraiso Neri
+Hellen Neri
 
 
