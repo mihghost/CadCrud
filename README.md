@@ -19,7 +19,7 @@ A aplicação consiste em criar, editar e excluir cadastros, onde os dados são 
 # Tecnologias utilizadas
 ## Back end
 - Node JS
-- 
+
 ## Front end
 - HTML / CSS / Tailwind CSS / JS / TypeScript
 - ReactJS
